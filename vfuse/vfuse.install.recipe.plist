@@ -5,7 +5,7 @@
         <key>Description</key>
         <string>Uses parent pkg recipe to download latest vfuse and installs it.</string>
         <key>Identifier</key>
-        <string>com.github.bk.install.outset</string>
+        <string>com.github.bk.install.vfuse</string>
         <key>MinimumVersion</key>
         <string>0.4.0</string>
         <key>ParentRecipe</key>
